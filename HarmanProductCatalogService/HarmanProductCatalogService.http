@@ -1,0 +1,6 @@
+@HarmanProductCatalogService_HostAddress = http://localhost:5030
+
+GET {{HarmanProductCatalogService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
